@@ -1,5 +1,5 @@
 // Base path for API requests - uses Vite's proxy
-const API_PATH = "/api";
+const API_PATH = "http://89.169.174.146:8888";
 
 // Helper function to convert taste case from UPPERCASE to Title Case
 function convertTasteCase(taste) {
